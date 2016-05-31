@@ -1,0 +1,9 @@
+C:\Users\Владислав\Desktop\BinaryStudioTask1\BinaryStudioTask2\BinaryStudioTask2\bin\Debug\BinaryStudioTask2.exe.config
+C:\Users\Владислав\Desktop\BinaryStudioTask1\BinaryStudioTask2\BinaryStudioTask2\obj\Debug\BinaryStudioTask2.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\BinaryStudioTask1\BinaryStudioTask2\BinaryStudioTask2\bin\Debug\BinaryStudioTask2.exe
+C:\Users\Владислав\Desktop\BinaryStudioTask1\BinaryStudioTask2\BinaryStudioTask2\bin\Debug\BinaryStudioTask2.pdb
+C:\Users\Владислав\Desktop\BinaryStudioTask1\BinaryStudioTask2\BinaryStudioTask2\obj\Debug\BinaryStudioTask2.exe
+C:\Users\Владислав\Desktop\BinaryStudioTask1\BinaryStudioTask2\BinaryStudioTask2\obj\Debug\BinaryStudioTask2.pdb
+C:\Users\Владислав\Desktop\BinaryStudioTask3\BinaryStudioTask2\bin\Debug\BinaryStudioTask2.exe.config
+C:\Users\Владислав\Desktop\BinaryStudioTask3\BinaryStudioTask2\obj\Debug\BinaryStudioTask2.exe
+C:\Users\Владислав\Desktop\BinaryStudioTask3\BinaryStudioTask2\obj\Debug\BinaryStudioTask2.pdb
